@@ -13,10 +13,13 @@ Supply Chain Analyst with 3 years of experience supporting demand and supply pla
 <img src="supply-chain-cycle.svg" alt="Supply chain cycle: demand, forecast, plan, source, inventory, distribute, analyze, decide, improve" width="600">
 </div>
 
-Data flow
-SAP S/4HANA → SAP IBP → SQL → Python (Pandas) → Power BI / Tableau → Insight → Decision
-Results
-Role	Metric
+## Data flow
+
+<div align="center">
+<img src="data-flow-signal.svg" alt="Data flow from SAP S/4HANA, SAP IBP, SQL, Python (Pandas), Power BI and Tableau to insight and decision" width="100%">
+</div>
+
+
 Nestlé (Aug 2025 – Present)	6 regional distribution centers
 	+14% monthly demand forecast accuracy (SAP IBP)
 	−11% stockout incidents
