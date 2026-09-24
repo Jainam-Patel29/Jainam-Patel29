@@ -19,16 +19,10 @@ Supply Chain Analyst with 3 years of experience supporting demand and supply pla
 <img src="data-flow-signal.svg" alt="Data flow from SAP S/4HANA, SAP IBP, SQL, Python (Pandas), Power BI and Tableau to insight and decision" width="100%">
 </div>
 
-<details>
-<summary><b>1. Forecast accuracy, WAPE and bias</b></summary>
-
-<br>
-
+##1. Forecast accuracy, WAPE and bias
+<div align="center">
 <img src="topic-1-forecast-accuracy.svg" alt="Forecast versus actual demand with WAPE, accuracy and bias" width="100%">
-
-(keep the formulas and bullet points below the image)
-
-</details>
+</div>
 
 ## Professional Experience
 
