@@ -7,8 +7,12 @@
 Supply Chain Analyst with 3 years of experience supporting demand and supply planning, procurement, inventory optimization, logistics, and distribution across manufacturing and consumer goods environments. I work in SAP S/4HANA, SAP IBP, SQL, Power BI, Tableau, Excel, and Python for forecasting, KPI reporting, and process improvement, and I turn operational data into practical planning decisions.
 
 
-Supply chain flow
-DEMAND → FORECAST → PLAN → SOURCE → INVENTORY → DISTRIBUTE → ANALYZE → DECIDE → IMPROVE
+## Supply chain flow
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Jainam-Patel29/jainam-Patel29/main/assets/supply-chain-cycle.svg" alt="Supply chain cycle: demand, forecast, plan, source, inventory, distribute, analyze, decide, improve" width="600">
+</div>
+
 Data flow
 SAP S/4HANA → SAP IBP → SQL → Python (Pandas) → Power BI / Tableau → Insight → Decision
 Results
