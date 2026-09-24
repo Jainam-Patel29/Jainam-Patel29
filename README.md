@@ -10,7 +10,7 @@ Supply Chain Analyst with 3 years of experience supporting demand and supply pla
 ## Supply chain flow
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Jainam-Patel29/jainam-Patel29/main/assets/supply-chain-cycle.svg" alt="Supply chain cycle: demand, forecast, plan, source, inventory, distribute, analyze, decide, improve" width="600">
+<img src="supply-chain-cycle.svg" alt="Supply chain cycle: demand, forecast, plan, source, inventory, distribute, analyze, decide, improve" width="600">
 </div>
 
 Data flow
