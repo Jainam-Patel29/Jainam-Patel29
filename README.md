@@ -1,5 +1,9 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1f3a&height=200&section=header&text=JAINAM%20PATEL&fontSize=52&fontColor=ffffff&desc=SUPPLY%20CHAIN%20ANALYST&descSize=20&descAlignY=68" alt="Jainam Patel, Supply Chain Analyst" width="100%"> <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=18&pause=1200&color=1AA6A6&center=true&vCenter=true&width=760&height=40&lines=PLANNING+%C3%97+ANALYTICS+%C3%97+OPTIMIZATION;Demand+Planning+%C2%B7+Supply+Planning+%C2%B7+S%26OP;Inventory+Optimization+%C2%B7+Procurement+%C2%B7+Logistics;SAP+S%2F4HANA+%C2%B7+SAP+IBP+%C2%B7+SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Tableau" alt="Planning, analytics, optimization"> </div>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Jainam-Patel29&label=Profile%20views&color=0b1f3a&style=flat" alt="Profile views">
+</div>
+
 ## Supply chain flow
 
 <div align="center">
